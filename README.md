@@ -6,4 +6,5 @@ James G. Luis C., Web Apps, Mentor: Anu
 
 # Brief Description:
 
-We need help and guidance in choosing a project topic.
+* Mind mapper
+* uses circles, lines, and arrows
