@@ -1,6 +1,6 @@
 # spis16-project-planning-webapps-James-Luis
 
-# Names. Area, Mentor:
+# Names, Area, Mentor:
 
 James G. Luis C., Web Apps, Mentor: Anu
 
