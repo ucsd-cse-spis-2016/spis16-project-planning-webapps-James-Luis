@@ -11,4 +11,5 @@ We plan to create a mind mapper. This could be a note-taking tool, brainstorming
 # Stages
 
 * Stage 1: Write some code that allows the user to input text into a circle diagram.
-* Stage 2: 
+* Stage 2: Make multiple circles connect automatically.
+* Stage 3: Allow user to drag circles around while having lines stay connected.
