@@ -13,3 +13,4 @@ Ideas:
 # Stages:
 
 * Stage 1: Write some code that allows the user to input text into a circle diagram.
+* Stage 2: 
